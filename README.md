@@ -1,2 +1,0 @@
-# vityarthiproject
-student managment system
